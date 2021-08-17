@@ -2,6 +2,12 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/HelloWorld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/direct/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/direct/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fanout/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fanout/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/topic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/topic/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/workqueue/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/workqueue/src/main/resources" charset="UTF-8" />
   </component>

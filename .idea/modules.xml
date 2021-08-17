@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/RabbitMQ.iml" filepath="$PROJECT_DIR$/.idea/RabbitMQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/direct/direct.iml" filepath="$PROJECT_DIR$/direct/direct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanout/fanout.iml" filepath="$PROJECT_DIR$/fanout/fanout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topic/topic.iml" filepath="$PROJECT_DIR$/topic/topic.iml" />
       <module fileurl="file://$PROJECT_DIR$/workqueue/workqueue.iml" filepath="$PROJECT_DIR$/workqueue/workqueue.iml" />
     </modules>
   </component>
