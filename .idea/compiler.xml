@@ -9,6 +9,7 @@
         <module name="direct" />
         <module name="topic" />
         <module name="fanout" />
+        <module name="rpc" />
         <module name="workqueue" />
         <module name="HelloWorld" />
       </profile>
@@ -17,6 +18,7 @@
       <module name="direct" target="1.8" />
       <module name="fanout" target="1.8" />
       <module name="HelloWorld" target="1.8" />
+      <module name="rpc" target="1.8" />
       <module name="topic" target="1.8" />
       <module name="workqueue" target="1.8" />
     </bytecodeTargetLevel>
@@ -26,6 +28,7 @@
       <module name="HelloWorld" options="-parameters" />
       <module name="direct" options="-parameters" />
       <module name="fanout" options="-parameters" />
+      <module name="rpc" options="-parameters" />
       <module name="topic" options="-parameters" />
       <module name="workqueue" options="-parameters" />
     </option>
