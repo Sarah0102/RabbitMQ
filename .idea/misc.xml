@@ -5,6 +5,9 @@
       <list>
         <option value="$PROJECT_DIR$/HelloWorld/pom.xml" />
         <option value="$PROJECT_DIR$/workqueue/pom.xml" />
+        <option value="$PROJECT_DIR$/fanout/pom.xml" />
+        <option value="$PROJECT_DIR$/direct/pom.xml" />
+        <option value="$PROJECT_DIR$/topic/pom.xml" />
       </list>
     </option>
   </component>
